@@ -79,7 +79,7 @@ Pasos para compilar y ejecutar (Linux / macOS / Git Bash / PowerShell):
 
    En Windows (PowerShell / CMD): .\simulador_artemis.exe
 
-Una vez hecho eso, solamente se ejecuta simulador_artemis.exe con doble clic.
+Una vez hecho eso, solamente se ejecuta simulador_artemis.exe con doble clic, que nos compilado el archivo makefile.
 
 
  - Registro detallado del uso de Inteligencia Artificial:
